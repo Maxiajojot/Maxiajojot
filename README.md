@@ -160,31 +160,7 @@ Future ─ Software Architect 🚀
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maxiajojot&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# ⭐ Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Maxiajojot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maxiajojot&repo=NOMBRE_DE_TU_REPO_1&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Maxiajojot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maxiajojot&repo=NOMBRE_DE_TU_REPO_2&theme=tokyonight"/>
-</a>
-
-</p>
-
----
 
 # 💡 Philosophy
 
