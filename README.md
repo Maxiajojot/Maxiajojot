@@ -20,43 +20,21 @@
 
 <img align="right" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
-🎓 Computer Science Student
+🎓 Computer Science Student at Universidad Nacional de Asunción
 
-💼 Working on enterprise software solutions
+💼 Developing enterprise software and internal business platforms
 
-🏪 Developing internal business platforms and APIs
-
-⚙️ Passionate about Backend Development
+⚙️ Backend Developer focused on scalable applications
 
 📚 Learning Software Architecture, Cloud Computing and DevOps
 
 🤖 Interested in Artificial Intelligence and Augmented Reality
 
-🚀 Focused on building scalable and useful software
+🚀 Passionate about solving real-world business problems with technology
 
-☕ Powered by coffee, bugs and questionable design decisions
+☕ Running on coffee, curiosity and occasional debugging sessions
 
 <br><br><br>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:maxiajojot@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/maximiliano-jojot-01402b351">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Maxiajojot">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
@@ -64,23 +42,23 @@
 
 ### 🏪 Enterprise Intranet System
 
-Multi-brand internal management platform
+Internal platform for managing multiple stores and brands.
 
 ### 📊 Sales Dashboard & Analytics
 
-Business intelligence and reporting tools
+Business intelligence and reporting tools.
 
 ### 🔌 REST API Development
 
-Scalable backend services and integrations
+Backend services and integrations.
 
 ### 👟 Virtual Try-On Experiments
 
-Augmented reality clothing experiences
+Augmented reality clothing experiences.
 
 ### ☁️ Cloud & DevOps Learning
 
-Exploring deployment and infrastructure
+Exploring deployment and infrastructure.
 
 ---
 
@@ -128,6 +106,26 @@ Future ─ Software Architect 🚀
 
 ---
 
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:maxiajojot@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/maximiliano-jojot-01402b351">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Maxiajojot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -140,35 +138,13 @@ Future ─ Software Architect 🚀
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Maxiajojot&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maxiajojot&theme=tokyo-night"/>
-
-</p>
-
----
-
-
-
 # 💡 Philosophy
 
-> First solve the problem.
+> Build things.
 >
-> Then write the code.
+> Break things.
 >
-> Then discover 14 new problems created by the code.
+> Learn from both.
 
 ---
 
@@ -176,7 +152,7 @@ Future ─ Software Architect 🚀
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Maxiajojot/Maxiajojot/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
