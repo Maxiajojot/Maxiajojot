@@ -65,22 +65,6 @@
 
 ---
 
-# 🛤️ My Journey
-
-```text
-2024 ─ Started Computer Science Degree
-      │
-2025 ─ Built Enterprise APIs
-      │
-2025 ─ Developed Internal Business Systems
-      │
-2026 ─ Exploring AI & AR Technologies
-      │
-Future ─ Software Architect 🚀
-```
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -110,16 +94,6 @@ Future ─ Software Architect 🚀
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxiajojot&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
-
-# 💡 Philosophy
-
-> Build things.
->
-> Break things.
->
-> Learn from both.
 
 ---
 
