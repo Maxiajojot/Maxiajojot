@@ -85,18 +85,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxiajojot&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxiajojot&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -105,12 +93,3 @@
 
 </p>
 
----
-
-<div align="center">
-
-## 🚀 Code • Learn • Build • Repeat
-
-*"The best way to predict the future is to build it."*
-
-</div>
