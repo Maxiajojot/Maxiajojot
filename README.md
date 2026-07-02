@@ -38,31 +38,6 @@
 
 ---
 
-# 🚀 Current Projects
-
-### 🏪 Enterprise Intranet System
-
-Internal platform for managing multiple stores and brands.
-
-### 📊 Sales Dashboard & Analytics
-
-Business intelligence and reporting tools.
-
-### 🔌 REST API Development
-
-Backend services and integrations.
-
-### 👟 Virtual Try-On Experiments
-
-Augmented reality clothing experiences.
-
-### ☁️ Cloud & DevOps Learning
-
-Exploring deployment and infrastructure.
-
----
-
-# 🛠️ Tech Stack
 
 ## Languages
 
